@@ -11,6 +11,7 @@ import android.content.Context;
 import android.content.ClipboardManager;
 import android.content.ClipData;
 import android.content.ClipDescription;
+import android.text.Html;
 
 public class Clipboard extends CordovaPlugin {
 
